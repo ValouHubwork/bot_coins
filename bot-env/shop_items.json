@@ -1,0 +1,35 @@
+{
+    "pomme": {
+        "name": "Pomme Rouge",
+        "emoji": "🍎",
+        "url": "https://i.pinimg.com/1200x/24/89/61/2489617be935dc4811ac2a303a707e7a.jpg",
+        "price": 10,
+        "description": "Un fruit juteux",
+        "weight": 100,
+        "quantity": 44,
+        "rarity": "Commun",
+        "rarity_weight": 80
+    },
+    "epee": {
+        "name": "Épée en fer",
+        "emoji": "⚔️",
+        "url": "https://i.pinimg.com/1200x/24/89/61/2489617be935dc4811ac2a303a707e7a.jpg",
+        "price": 150,
+        "description": "Pour les débutants",
+        "weight": 20,
+        "quantity": 5,
+        "rarity": "Commun",
+        "rarity_weight": 15
+    },
+    "couronne": {
+        "name": "Couronne Royale",
+        "emoji": "👑",
+        "url": "https://i.pinimg.com/1200x/24/89/61/2489617be935dc4811ac2a303a707e7a.jpg",
+        "price": 5000,
+        "description": "Une seule existe !",
+        "weight": 1,
+        "quantity": 1,
+        "rarity": "Commun",
+        "rarity_weight": 1
+    }
+}
